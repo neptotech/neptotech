@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neptotech(vishnu)
-- 👀 I’m interested in `java` `python` `javascript` `c` `c++` `arduino` `scratch` `unity` `...`
+- 👀 I’m interested in `java` `python` `javascript` `c` `c++` `arduino` `android` `scratch` `unity` `...`
 - 🌱 I’m currently learning all of them
 - 💞️ I’m looking to collaborate on all of them
 - 📫 How to reach me `neptotechnologies@gmail.com`
