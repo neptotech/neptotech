@@ -34,18 +34,35 @@ jobs:
         cache: gradle
 
     # 4. Start Android emulator for UI tests
+    - name: Set up environment for Android Emulator
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y adb android-sdk
+    
     - name: Start Android emulator
-      uses: ReactiveCircus/android-emulator-runner@v2
-      with:
-        api-level: 30
-        target: default
-        arch: x86_64
-        profile: Nexus 6
-        emulator-options: "-no-window -no-audio"
-        disable-animations: true
-        emulator-boot-timeout: 1200    # 20 minutes
-        force-avd-creation: true
-        script: echo "Starting Emulator"
+      run: |
+        # Define variables
+        ANDROID_HOME=$HOME/Android/Sdk
+        AVD_NAME="test_avd"
+        
+        # Create an AVD if it doesn't exist
+        echo "no" | avdmanager create avd -n $AVD_NAME -k "system-images;android-30;default;x86_64" -d "Nexus 6" --force
+    
+        # Start the emulator
+        $ANDROID_HOME/emulator/emulator -avd $AVD_NAME -no-window -no-audio -port 5556 &
+    
+        # Wait for the emulator to boot
+        adb wait-for-device
+        adb shell 'while [[ -z $(getprop sys.boot_completed) ]]; do sleep 1; done;'
+    
+        echo "Emulator started on port 5556"
+    
+    - name: Disable animations
+      run: |
+        adb shell settings put global window_animation_scale 0
+        adb shell settings put global transition_animation_scale 0
+        adb shell settings put global animator_duration_scale 0
+
 
     # 5. Verify ADB Connection
     - name: Check Emulator Status
