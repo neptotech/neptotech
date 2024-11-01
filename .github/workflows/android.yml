@@ -43,7 +43,6 @@ jobs:
         profile: Nexus 6
         emulator-options: "-no-window -no-audio"
         disable-animations: true
-        emulator-port: 5037            # Use a specific port
         emulator-boot-timeout: 1200    # 20 minutes
         force-avd-creation: true
         script: echo "Starting Emulator"
