@@ -10,7 +10,7 @@ Most of my projects out here belong to my childhood days, and I have done so man
 [Stackoverflow profile](https://stackoverflow.com/users/14862885/redoc?tab=profile)
 
 ## Skills & Technologies
-![skills](https://skillicons.dev/icons?i=js,py,java,html,css,rust,vscode,pycharm,idea,mysql,bash,powershell,arduino,c,cpp,cs,git,visualstudio,unity,blender,stackoverflow,tailwind,firebase,gradle,androidstudio,figma,windows,linux&perline=8)
+![skills](https://skillicons.dev/icons?i=js,py,java,html,css,rust,vscode,pycharm,idea,mysql,bash,powershell,arduino,c,cpp,cs,git,markdown,visualstudio,unity,blender,stackoverflow,tailwind,electron,firebase,gradle,androidstudio,figma,windows,linux&perline=8)
 
 ## Top Projects
 
