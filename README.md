@@ -4,7 +4,7 @@ I'm **neptotech**, a passionate developer with a love for creating efficient and
 
 ## About Me
 
-Based in India, I am currently focused on fun projects and tools. I enjoy working on innovative projects that challenge my creativity and problem-solving abilities.  
+A student based in India, I am currently focused on fun projects, userscripts and tools. I enjoy working on innovative projects that challenge my creativity and problem-solving abilities.  
 
 Most of my projects out here belong to my childhood days, and I have done so many stuff out there, most of them being private.  
 [Stackoverflow profile](https://stackoverflow.com/users/14862885/redoc?tab=profile)
