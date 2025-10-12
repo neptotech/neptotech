@@ -15,6 +15,7 @@ Most of my projects out here belong to my childhood days, and I have done so man
 ## Top Projects
 - [**Better Advanced Paste**](https://github.com/neptotech/BetterAdvancedPaste) - An AI-powered “Advanced Paste” productivity tool for Windows.
 - [**Remote-zip-browser**](https://github.com/neptotech/Remote-zip-browser) - Explore and interact with ZIP archives hosted remotely
+- [**Code**](https://electrobyte6.gumroad.com/l/onbsd)[trest](https://github.com/neptotech/codetrest) -  Your Ultimate Markdown-Powered Notes Hub 
 - [**vscode-python-path-autocomplete**](https://github.com/neptotech/vscode-python-path-autocomplete) - VS Code extension for Python path autocomplete.
 
 
