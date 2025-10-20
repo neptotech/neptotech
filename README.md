@@ -1,6 +1,9 @@
 ## Hi there! 👋
 
-I'm **neptotech**, a passionate developer with a love for creating efficient and scalable solutions. Let's build something great together!
+![Static Badge](https://img.shields.io/badge/For%20software%20needs-%235466ec?style=for-the-badge&logo=discord&logoColor=%235865F2&label=Discord&labelColor=white&link=http%3A%2F%2Fdiscordapp.com%2Fusers%2F1017757323093102612)  
+
+I'm **neptotech**, a passionate developer, programming as a hobby,as a challenge. Let's build something great together!
+
 
 ## About Me
 
