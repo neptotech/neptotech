@@ -21,9 +21,9 @@ Most of my projects out here belong to my childhood days, and I have done so man
 
 ## GitHub Stats
 
-🌟 **Public Repositories**: 16  
-👥 **Followers**: 3  
-🔗 **Following**: 4  
+🌟 **Public Repositories**: ![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/neptotech&label=&query=$.public_repos&color=blue)  
+👥 **Followers**: ![followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/neptotech&label=&query=$.followers&color=brightgreen)  
+🔗 **Following**: ![following](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/neptotech&label=&query=$.following&color=yellow)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neptotech&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neptotech&layout=compact&theme=radical) 
 ![h](https://streak-stats.demolab.com?user=neptotech&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
