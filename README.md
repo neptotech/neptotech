@@ -2,7 +2,7 @@
 
 [![Static Badge](https://img.shields.io/badge/For%20software%20needs-%235466ec?style=for-the-badge&logo=discord&logoColor=%235865F2&label=Discord&labelColor=white&link=http%3A%2F%2Fdiscordapp.com%2Fusers%2F1017757323093102612)](http://discordapp.com/users/1017757323093102612)  
 
-I'm **neptotech**, a passionate developer, programming as a hobby,as a challenge. Let's build something great together!
+I'm **neptotech** aka **_redoc_**, a passionate developer, programming as a hobby,as a challenge. Let's build something great together!
 
 
 ## About Me
