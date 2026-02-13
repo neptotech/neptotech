@@ -1,3 +1,5 @@
+> “I am grateful to have mastered the languages of code before the age of AI began.” - Myself
+
 ## Hi there! 👋
 
 [![Static Badge](https://img.shields.io/badge/For%20software%20needs-%235466ec?style=for-the-badge&logo=discord&logoColor=%235865F2&label=Discord&labelColor=white&link=http%3A%2F%2Fdiscordapp.com%2Fusers%2F1017757323093102612)](http://discordapp.com/users/1017757323093102612)  
