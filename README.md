@@ -1,3 +1,8 @@
+### https://keepandroidopen.org/ Your phone is about to stop being yours.
+
+Developers please spread the word.
+--------------------
+
 > “I am grateful to have mastered the languages of code before the age of AI began.” - Myself
 
 ## Hi there! 👋
