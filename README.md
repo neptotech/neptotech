@@ -9,14 +9,14 @@ Developers please spread the word.
 
 [![Static Badge](https://img.shields.io/badge/For%20software%20needs-%235466ec?style=for-the-badge&logo=discord&logoColor=%235865F2&label=Discord&labelColor=white&link=http%3A%2F%2Fdiscordapp.com%2Fusers%2F1017757323093102612)](http://discordapp.com/users/1017757323093102612)  
 
-I'm **neptotech** aka **_redoc_**, a passionate developer, programming as a hobby,as a challenge. Let's build something great together!
+I'm **Vishnu Periyannan** aka **_redoc_**, a passionate developer, programming as a hobby,as a challenge. Let's build something great together!
 
 
 ## About Me
 
-A student based in Tamil Nadu, India, I am currently focused on fun projects, userscripts and tools. I enjoy working on innovative projects that challenge my creativity and problem-solving abilities.  
+A student based in Tamil Nadu, India. Currently studying first year EE in IITGN, I am focused on fun projects, userscripts and tools. I enjoy working on innovative projects that challenge my creativity and problem-solving abilities.  
 
-Most of my projects out here belong to my childhood days, and I have done so many stuff out there, most of them being private.  
+Most of my projects out here belong to my childhood days, and I have done so many stuff out there, most of them being private.    
 [Stackoverflow profile](https://stackoverflow.com/users/14862885/redoc?tab=profile)
 
 ## Skills & Technologies
