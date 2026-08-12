@@ -31,18 +31,16 @@ Most of my projects out here belong to my childhood days, and I have done so man
 - [**vscode-python-path-autocomplete**](https://github.com/neptotech/vscode-python-path-autocomplete) - VS Code extension for Python path autocomplete.
 
 
-## GitHub Stats
-
-🌟 **Public Repositories**: ![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/neptotech&label=&query=$.public_repos&color=blue)  
-👥 **Followers**: ![followers](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/neptotech&label=&query=$.followers&color=brightgreen)  
-🔗 **Following**: ![following](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/neptotech&label=&query=$.following&color=yellow)
-
 ## My Rig
 <img src="https://img.shields.io/badge/AMD Ryzen 5 8600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 <img src="https://img.shields.io/badge/Radeon 760M Graphics-CC0033?style=for-the-badge&logo=amd&logoColor=white">
 <img src="https://img.shields.io/badge/Clock Speed-4.3 GHz%20Boost-0088CC?style=for-the-badge&logo=speedtest&logoColor=white">
 <img src="https://img.shields.io/badge/RAM-16GB DDR5-0088CC?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Windows 11-34be5b?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/HP%20OmniBook%205%20AMD%20Ryzen%20AI%205%20340-ED1C24?style=for-the-badge&logo=hp&color=%23024AD8">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neptotech&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neptotech&layout=compact&theme=radical) 
-![h](https://streak-stats.demolab.com?user=neptotech&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
+## GitHub Stats
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=neptotech&show_icons=true&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=neptotech&layout=compact&theme=radical)
+![Streak Stats](https://streak-stats.demolab.com?user=neptotech&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)
