@@ -9,7 +9,7 @@ Developers please spread the word.
 
 [![Static Badge](https://img.shields.io/badge/For%20software%20needs-%235466ec?style=for-the-badge&logo=discord&logoColor=%235865F2&label=Discord&labelColor=white&link=http%3A%2F%2Fdiscordapp.com%2Fusers%2F1017757323093102612)](http://discordapp.com/users/1017757323093102612)  
 
-I'm **Vishnu Periyannan** aka **_redoc_**, a passionate developer, programming as a hobby,as a challenge. Let's build something great together!
+I'm **Vishnu Periyannan** aka [**_redoc_**](https://redoc.wr.do/), a passionate developer, programming as a hobby,as a challenge. Let's build something great together!
 
 
 ## About Me
@@ -24,7 +24,8 @@ Most of my projects out here belong to my childhood days, and I have done so man
 
 ## Top Projects
 - [**Code**](https://electrobyte6.gumroad.com/l/onbsd)[trest](https://github.com/neptotech/codetrest) -  Your Ultimate Markdown-Powered Notes Hub. 
-- [**Litask**](https://github.com/neptotech/litask) -  Your Lightweight powerful modern TODO list. 
+- [**Litask**](https://github.com/neptotech/litask) -  Your Lightweight powerful modern TODO list.
+- [**CCTVDiff**](https://github.com/neptotech/cctvdiff) -  Detect and visualize motion in CCTV footage with movement detection with visualization, interactive heatmaps, and more.
 - [**Better Advanced Paste**](https://github.com/neptotech/BetterAdvancedPaste) - An AI-powered “Advanced Paste” productivity tool for Windows.
 - [**Redoc's Ferra Theme**](https://github.com/neptotech/redocs-ferra-theme) - A handpicked port of casperstorm's ferra color palette to VSCode.
 - [**Remote-zip-browser**](https://github.com/neptotech/Remote-zip-browser) - Explore and interact with ZIP archives hosted remotely.
