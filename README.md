@@ -16,7 +16,7 @@ I'm **Vishnu Periyannan** aka [**_redoc_**](https://redoc.space/), a passionate 
 
 A student based in Tamil Nadu, India. Currently studying first year EE in IITGN, I am focused on fun projects, userscripts and tools. I enjoy working on innovative projects that challenge my creativity and problem-solving abilities.  
 
-Most of my projects out here belong to my childhood days, and I have done so many stuff out there, most of them being private.    
+Most of my projects out here belong to my childhood days, and I have done so many stuff out there, most of them being private.(8+ years of coding)    
 [Stackoverflow profile](https://stackoverflow.com/users/14862885/redoc?tab=profile)
 
 ## Skills & Technologies
